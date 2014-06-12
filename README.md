@@ -44,7 +44,7 @@ public class PizzaStrategy implements  AbstracFoodMakerStrategy {
 
 Now use one of the Repositories included in the library or create new one extending the Repository interface
 
-Using the ClassStrategyRepository, adding strategies, the first parameter is used to perform searchs and the second the strategy that correspond width this parameter
+Using the ClassStrategyRepository, adding strategies, the first parameter is used to perform searchs and the second the strategy that correspond with this parameter
 
 
 ```java
